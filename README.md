@@ -1,1 +1,2 @@
-A project made with JavaScript that changes its CSS style according to the respective period of your day.
+
+Um projeto em JavaScript que muda o seu estilo CSS conforme as horas do dia.
